@@ -1,4 +1,4 @@
-package com.lustudy.customer;
+package com.ludistudy.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

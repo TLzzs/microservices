@@ -1,4 +1,4 @@
-package com.lustudy.customer;
+package com.ludistudy.customer;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

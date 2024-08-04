@@ -1,4 +1,4 @@
-package com.lustudy.customer;
+package com.ludistudy.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

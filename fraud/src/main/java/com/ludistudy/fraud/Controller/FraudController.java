@@ -1,6 +1,7 @@
-package com.ludistudy.fraud;
+package com.ludistudy.fraud.Controller;
 
 import com.ludistudy.clients.fraud.FraudCheckResponse;
+import com.ludistudy.fraud.Service.FraudCheckService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

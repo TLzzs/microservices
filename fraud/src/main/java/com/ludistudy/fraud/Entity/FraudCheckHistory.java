@@ -1,4 +1,4 @@
-package com.ludistudy.fraud;
+package com.ludistudy.fraud.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

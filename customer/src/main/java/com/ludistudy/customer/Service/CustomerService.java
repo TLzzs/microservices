@@ -1,14 +1,16 @@
-package com.ludistudy.customer;
+package com.ludistudy.customer.Service;
 
 import com.ludistudy.clients.fraud.FraudCheckResponse;
 import com.ludistudy.clients.fraud.FraudClient;
 import com.ludistudy.clients.notification.NotificationClient;
 import com.ludistudy.clients.notification.NotificationRequest;
 import com.ludistudy.clients.notification.NotificationResponse;
+import com.ludistudy.customer.Dto.CustomerRegistrationRequest;
+import com.ludistudy.customer.Repository.CustomerRepository;
+import com.ludistudy.customer.Entity.Customer;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 @Service
 @AllArgsConstructor

@@ -1,4 +1,4 @@
-package com.ludistudy.customer;
+package com.ludistudy.customer.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

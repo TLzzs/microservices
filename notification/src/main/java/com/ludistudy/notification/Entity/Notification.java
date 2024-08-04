@@ -1,4 +1,4 @@
-package com.ludistudy.notification;
+package com.ludistudy.notification.Entity;
 
 import lombok.*;
 

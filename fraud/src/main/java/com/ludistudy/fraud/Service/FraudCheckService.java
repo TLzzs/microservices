@@ -1,5 +1,7 @@
-package com.ludistudy.fraud;
+package com.ludistudy.fraud.Service;
 
+import com.ludistudy.fraud.Entity.FraudCheckHistory;
+import com.ludistudy.fraud.Repository.FraudCheckHistoryRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

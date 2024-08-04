@@ -1,5 +1,7 @@
-package com.ludistudy.customer;
+package com.ludistudy.customer.Controller;
 
+import com.ludistudy.customer.Dto.CustomerRegistrationRequest;
+import com.ludistudy.customer.Service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

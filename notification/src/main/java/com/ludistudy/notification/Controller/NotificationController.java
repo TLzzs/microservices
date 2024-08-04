@@ -1,8 +1,9 @@
-package com.ludistudy.notification;
+package com.ludistudy.notification.Controller;
 
 
 import com.ludistudy.clients.notification.NotificationRequest;
 import com.ludistudy.clients.notification.NotificationResponse;
+import com.ludistudy.notification.Service.NotificationService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

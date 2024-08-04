@@ -1,6 +1,8 @@
-package com.ludistudy.notification;
+package com.ludistudy.notification.Service;
 
 import com.ludistudy.clients.notification.NotificationRequest;
+import com.ludistudy.notification.Entity.Notification;
+import com.ludistudy.notification.Repository.NotificationRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
